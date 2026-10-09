@@ -1,4 +1,11 @@
 import Foundation
+/**
+ * This program uses loop to calculate the sum of integers 
+ * from a text file and writes the results to an output file.
+ * @author Yoma Ozoh
+ * @version 1.0
+ * @since 2026-10-09
+ */
 
 let inputFilePath = "Unit2-02-input.txt"
 let outputFilePath = "Unit2-02-output.txt"
